@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nearby_stations_title">Nearby Rest Stations</string>
+    <string name="refresh_button">Refresh</string>
+    <string name="heat_warning">Midday break in effect (12:30-3:00pm). You can refuse outdoor delivery work right now.</string>
+    <string name="ac_working">AC working</string>
+    <string name="ac_down">AC reported down</string>
+    <string name="crowd_low">Quiet</string>
+    <string name="crowd_medium">Moderate</string>
+    <string name="crowd_high">Busy</string>
+    <string name="crowd_unknown">Unknown</string>
+    <string name="back_button">Back</string>
+    <string name="report_section_title">Help other riders - report current conditions</string>
+    <string name="is_ac_working_question">Is the AC working?</string>
+    <string name="crowd_level_question">How crowded is it right now?</string>
+    <string name="submit_report_button">Submit Report</string>
+    <string name="report_submitted_thanks">Thanks - this helps other riders in real time.</string>
+</resources>

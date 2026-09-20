@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nearby_stations_title">محطات الراحة القريبة</string>
+    <string name="refresh_button">تحديث</string>
+    <string name="heat_warning">فترة الراحة الظهرية سارية (12:30 - 3:00 مساء). يمكنك رفض العمل الخارجي الآن.</string>
+    <string name="ac_working">التكييف يعمل</string>
+    <string name="ac_down">تم الإبلاغ عن تعطل التكييف</string>
+    <string name="crowd_low">هادئة</string>
+    <string name="crowd_medium">متوسطة الازدحام</string>
+    <string name="crowd_high">مزدحمة</string>
+    <string name="crowd_unknown">غير معروف</string>
+    <string name="back_button">رجوع</string>
+    <string name="report_section_title">ساعد الزملاء - أبلغ عن الحالة الحالية</string>
+    <string name="is_ac_working_question">هل التكييف يعمل؟</string>
+    <string name="crowd_level_question">ما مدى الازدحام الآن؟</string>
+    <string name="submit_report_button">إرسال البلاغ</string>
+    <string name="report_submitted_thanks">شكرا - هذا يساعد الزملاء الآخرين فورا.</string>
+</resources>
